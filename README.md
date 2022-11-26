@@ -1,4 +1,4 @@
-# My Task Tracker
+# My Tasks Tracker
 
 This application is created to help myself get organized and manage my time well
 
